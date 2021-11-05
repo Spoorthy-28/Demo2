@@ -13,7 +13,7 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 
 
-@RunWith(Cucumber.class)
+//@RunWith(Cucumber.class)
 public class StepDefinition extends Base{
 
     @Given("^invoke the chrome driver$")
